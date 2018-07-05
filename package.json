@@ -1,0 +1,24 @@
+{
+  "name": "my-dsa",
+  "version": "1.0.0",
+  "description": "Repo with implementations of common data strcutures and algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanDimov/my-dsa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StefanDimov/my-dsa/issues"
+  },
+  "homepage": "https://github.com/StefanDimov/my-dsa#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.2.0"
+  }
+}
