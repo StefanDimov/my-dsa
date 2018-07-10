@@ -13,3 +13,4 @@ Repo with implementations of common data structures and algorithms
 ### Sorting
 
 - [x] [Bubble Sort](/algorithms/sorting/bubble-sort)
+- [x] [Insertion Sort](/algorithms/sorting/insertion-sort)
